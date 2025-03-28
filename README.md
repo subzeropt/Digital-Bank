@@ -1,5 +1,6 @@
 # Digital-Bank
-Final Project in Object-oriented programming / Python
+Final Project in Object-oriented programming / Python.
+
 This project consists of implementing an application for a bank.
 This system will be used by a bank's branches and will allow them to manage customers and accounts as well as carry out banking transactions: withdrawals, deposits and transfers between bank accounts. It is also possible to make inquiries about balances and transactions.
 
