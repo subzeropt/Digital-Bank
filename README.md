@@ -10,4 +10,4 @@ Some of the Features:
  Deposit: allows deposits to be made, adding the amount to the available balance
  Transactions: allows you to make transfers between accounts of the same bank, as well as consult transaction details
 
-Translated with DeepL.com (free version)
+
